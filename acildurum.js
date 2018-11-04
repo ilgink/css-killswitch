@@ -1,0 +1,2 @@
+/*jQuery("body").css("display","none");
+$( "body" ).append( "<p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil durum şalteri</p>" );*/
