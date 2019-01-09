@@ -34,6 +34,8 @@ Tabi ki siteyi kullanılmaz hale getiren ufak bir kod bloğu. Ve paramızı öde
 
 Not: Bu kodu kullanıp projeyi kullanılmaz hale getirmeniz ile ilgili bütün yasal sorumluluk size aittir. Eğer müşteri ile iletişim kuramıyorsanız, ödemenizi alıp projeyi sonlandırma pencereniz tamamen kapandıysa, bu kod muhtemelen iyi bir seçim olacaktır.
 
+Eğer çalışmayı beğendiyseniz, lütfen bana bir kahve alın: buymeacoff.ee/ilgink
+
 ## English ##
 
 Hey! If you dude work on small-mid range projects and don't own the domain&hosting infrastructure, that code might be the catch for you.
@@ -69,3 +71,5 @@ $( "body" ).append( "<p>Acil durum şalteri</p><p>Acil durum şalteri</p><p>Acil
 Of course, a code block to get website unaccessible. Client that refuses the pay up will get his/her *ss on fire soon, problem solved!
 
 Note that I'm not responsible for the illegal use of that code block, all the legal responsibility on you. It's a final solution for client doesn't come up on phone calls, and the certain consequences that you get ripped off. Also note that you're gonna be the guilty side if you had a partial payment for the project.
+
+Please buy me a coffee if you like the work here: buymeacoff.ee/ilgink
