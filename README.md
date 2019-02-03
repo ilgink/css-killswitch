@@ -72,4 +72,4 @@ Of course, a code block to get website unaccessible. Client that refuses the pay
 
 Note that I'm not responsible for the illegal use of that code block, all the legal responsibility on you. It's a final solution for client doesn't come up on phone calls, and the certain consequences that you get ripped off. Also note that you're gonna be the guilty side if you had a partial payment for the project.
 
-Please buy me a coffee if you like the work here: http://buymeacoff.ee/ilgink
+Please buy me a coffee if you like the work here: http://buymeacoff.ee/kilgin
