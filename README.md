@@ -34,7 +34,7 @@ Tabi ki siteyi kullanılmaz hale getiren ufak bir kod bloğu. Ve paramızı öde
 
 Not: Bu kodu kullanıp projeyi kullanılmaz hale getirmeniz ile ilgili bütün yasal sorumluluk size aittir. Eğer müşteri ile iletişim kuramıyorsanız, ödemenizi alıp projeyi sonlandırma pencereniz tamamen kapandıysa, bu kod muhtemelen iyi bir seçim olacaktır.
 
-Eğer çalışmayı beğendiyseniz, lütfen bana bir kahve alın: http://buymeacoff.ee/ilgink
+Eğer çalışmayı beğendiyseniz, lütfen bana bir kahve alın: http://buymeacoff.ee/kilgin
 
 ## English ##
 
